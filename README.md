@@ -44,7 +44,7 @@ Si la commande n'est pas reconnue, il faut ajouter manuellement le dossier `bin`
 Dézippe le projet quelque part, par exemple `C:\Users\TonNom\shazam_proto`, puis dans un terminal (PowerShell) :
 
 ```powershell
-git clone https://github.com/Nono201229/shazam-local.git
+https://github.com/LeStudio3D/shazam-local.git
 
 cd shazam_local
 
